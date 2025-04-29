@@ -1,0 +1,29 @@
+{
+  "name": "student-managment-portal",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BequeenCode/student-managment-portal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BequeenCode/student-managment-portal/issues"
+  },
+  "homepage": "https://github.com/BequeenCode/student-managment-portal#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.16.0",
+    "mongoose": "^8.13.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
